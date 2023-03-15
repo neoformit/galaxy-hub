@@ -1,9 +1,9 @@
-
 <div class="trim-p">
 
 [![gcc2023](/images/events/gcc2023/au-gcc-banner.png)](/events/gcc2023/)
 
 </div>
+
 <div class="linkbox-horizontal trim-p">
 
 [Home](/events/gcc2023/) |
